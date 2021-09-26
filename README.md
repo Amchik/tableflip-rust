@@ -1,5 +1,5 @@
 # tableflip-rust
 
-Rewrite [tableflip](https://github.com/Amchik/tableflip) in rust.
+[tableflip](https://github.com/Amchik/tableflip) but in rust.
 
 Completed for 17%.
