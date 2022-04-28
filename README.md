@@ -2,4 +2,4 @@
 
 [tableflip](https://github.com/Amchik/tableflip) but in rust.
 
-Completed for 17%.
+Completed for 100%.
